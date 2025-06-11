@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tiger CCS </title>
+  <link href="https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap" rel="stylesheet">
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: url('https://4kwallpapers.com/images/wallpapers/white-tiger-bengal-tiger-black-background-5k-3840x2160-1526.jpg') center center / cover no-repeat;
+      color: #f0f0f0;
+      padding-top: 3rem;
+    }
+
+    .top-warning {
+      position: fixed;
+      top: 0;
+      width: 100%;
+      background-color: #d00000;
+      color: white;
+      text-align: center;
+      font-weight: bold;
+      padding: 0.75rem 1rem;
+      font-size: 1rem;
+      z-index: 1000;
+      text-shadow: 1px 1px 3px black;
+    }
+
+    .container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      padding: 1rem;
+      gap: 2rem;
+    }
+
+    .login-container {
+      background-color: rgba(0, 0, 0, 0.65);
+      padding: 1.5rem;
+      border-radius: 1.25rem;
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.7);
+      max-width: 500px;
+      width: 100%;
+      backdrop-filter: blur(4px);
+    }
+
+    h1 {
+      font-family: 'Fredericka the Great', cursive;
+      font-size: 2rem;
+      color: #ff6b00;
+      text-shadow: 2px 2px 5px black;
+      text-align: center;
+      margin-bottom: 1rem;
+    }
+
+    h2 {
+      font-size: 1rem;
+      line-height: 1.6;
+      background-color: rgba(255, 255, 255, 0.1);
+      padding: 1rem;
+      border-radius: 0.75rem;
+      text-shadow: 1px 1px 2px black;
+    }
+
+    strong {
+      color: #ffb74d;
+      display: block;
+      margin-bottom: 0.3rem;
+    }
+
+    input, button {
+      width: 100%;
+      padding: 0.8rem;
+      margin: 0.5rem 0;
+      font-size: 1rem;
+      border-radius: 0.5rem;
+      border: none;
+    }
+
+    input {
+      background-color: #fff;
+      border: 1px solid #ccc;
+    }
+
+    button {
+      background-color: #ff6b00;
+      color: white;
+      cursor: pointer;
+      font-weight: bold;
+      transition: background-color 0.3s ease;
+    }
+
+    button:hover {
+      background-color: #e65c00;
+    }
+
+    a {
+      color: #ffb74d;
+      text-decoration: underline;
+    }
+
+    @media (max-width: 600px) {
+      h1 {
+        font-size: 1.5rem;
+      }
+
+      h2 {
+        font-size: 0.95rem;
+        padding: 0.75rem;
+      }
+
+      .top-warning {
+        font-size: 0.9rem;
+        padding: 0.5rem;
+      }
+    }
+  </style>
+</head>
+<div class="login-container">
+      <h1>Tiger CCS</h1>
+      <h2>
+        Make a payment of $20 to one of the addresses listed on this site to use our private CC shop. Your payment will be verified in under 5 minutes. Once verified, your login credentials will appear in the "Login Credentials" section. You can then log in using the form at the bottom of this page. DO NOT SHARE YOUR LOGIN CREDENTIALS WITH ANYONE.
+
+
+        <strong>what we offer:</strong>
+        <br>1. Full tutorials on carding
+
+          <br>2. List of non-VBV BINS
+          <br>3. Very cheap CC prices
+          <br>4. Private help and usage tips
+          <br>5. Access to numerous tools and resources
+          <br>6. We are a very starter-friendly shop and always help new
+      </h2>
+    </div>
+<body>
+  <div class="top-warning">
+    This is our only domain. Beware of scammers!
+  </div>
+
+  <div class="container">
+    <!-- Credentials -->
+    <div class="login-container">
+      <h1>Login Credentials</h1>
+      <h2>
+        <strong>Username:</strong> **********<br>
+        <strong>Password:</strong> **********
+      </h2>
+      <h2>
+        Your login credentials will appear here after we verify your payment. Payments are processed and verified in under 5 minutes. Once the account is activated, the 20$ activation fee will be added to your balance to use in our cc shop.
+      </h2>
+    </div>
+<div class="login-container">
+      <h1>Where to Buy Crypto</h1>
+      <h2>
+        We recommend <a href="https://switchere.com" target="_blank">Switchere.com</a>. You can buy crypto there easily <strong>without verifying your identity</strong>
+      </h2>
+    </div>
+    <!-- Accepted Currencies -->
+    <div class="login-container">
+      <h1>Make a payment to one of there addresses (20$)</h1>
+      <h2><strong>Bitcoin (BTC):</strong> bc1qeh6jmqawtx...</h2>
+      <h2><strong>Ethereum (ETH):</strong> 0x1234abcd5678ef...</h2>
+      <h2><strong>USDT (TRC20):</strong> TEzvHgWxQs1Yf...</h2>
+      <h2><strong>XRP:</strong> rBhcCgNcFQae6xN4ZF...</h2>
+      <h2><strong>Litecoin (LTC):</strong> LhaVGXyYszvthR...</h2>
+      <h2><strong>Bitcoin Cash (BCH):</strong> qz5z4dhz9c4x...</h2>
+      <h2><strong>Dogecoin (DOGE):</strong> D7YZMZCz6eay...</h2>
+    </div>
+
+    <!-- Buy Crypto Info -->
+    
+
+    <!-- Main Shop Info -->
+    
+
+    <!-- Fake Login -->
+    <div class="login-container">
+      <h1>Login</h1>
+      <input type="text" placeholder="Username" />
+      <input type="password" placeholder="Password" />
+      <button disabled>Register a New Account</button>
+    </div>
+  </div>
+</body>
+</html>
